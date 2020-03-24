@@ -11,4 +11,6 @@ Guideline to add new resource/idea:
 
 - [COVID-19 API](resources/COVID-19%20Stats%20API.md)
 
+- [R packages](resources/R%20packages.md)
+
 ## Ideas:
